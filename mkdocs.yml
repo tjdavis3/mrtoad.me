@@ -10,7 +10,7 @@ nav:
   - Resume: resume.md
 
 extra:
-  disqus:  mrtoad-me
+  disqus:  
 
 markdown_extensions:
   - meta

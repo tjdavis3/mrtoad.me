@@ -1,12 +1,18 @@
-disqus: 
+# Todd Davis
 
-**Todd Davis** <br/>
+## Contact
 101 E. Lincoln St. <br/>
-New Holland, IL  62711 <br/>
+New Holland, IL 62711<br/>
+Email: todd@mrtoad.me<br/>Website: [https://mrtoad.me](https://mrtoad.me)
 
-[linkedin](https://www.linkedin.com/in/davistodd)
+linkedin: [https://www.linkedin.com/in/davistodd](https://www.linkedin.com/in/davistodd)    
+GitHub: [https://github.com/tjdavis3](https://github.com/tjdavis3)
 
+
+## Summary
 Hands-on manager with 25+ years of experience designing and building infrastructures and applications across heterogeneous environments and technologies.
+
+Open source champion who has both used and contributed to multiple projects.
 
 Committed manager promoting growth and autonomy within the department.  Maintained a low turnover rate with some staff leaving only to return.
 
@@ -15,13 +21,13 @@ Design and implement data centers at the infrastructure, network,  and server le
 ## Experience
 
 
-### Director Of Software Development
-**Teliax, Inc. a global leader in voice services and solutions.** 2017-08-01 - Present
+### Director Of Software Development, Teliax, Inc. a global leader in voice services and solutions.
+##### 2017-08-01 - Present
 
 
 
-### Director of Systems Operations
-**ANPI / Onvoy** 2005-02-01 - 2017-02-01
+### Director of Systems Operations, ANPI / Onvoy
+##### 2005-02-01 - 2017-02-01
 
 Responsible for managing the corporate computing infrastructure covering 3 data centers and 6 offices.  Coordinated a team of motivated professionals to support the company’s employees and the computing environment the use.
 
@@ -39,36 +45,34 @@ Responsible for managing the corporate computing infrastructure covering 3 data 
 
   * Designed a centralized logging and authentication system.
 
-### Sr. Internet Consultant
-**MSF&W** 2000-03-01 - 2005-02-01
+### Sr. Internet Consultant, MSF&W
+##### 2000-03-01 - 2005-02-01
 
 
 
-### Comsys
-**Illinois Department of Corrections** 1993-10-01 - 2000-03-01
+### Comsys, Illinois Department of Corrections
+##### 1993-10-01 - 2000-03-01
 
 
 
-### Programmer
-**American Healthtech** 1991-06-01 - 1993-01-01
+### Programmer, American Healthtech
+##### 1991-06-01 - 1993-01-01
 
 
 
-### Director of Receivables / Information Systems
-**Springwood Associates** 1989-09-01 - 1991-06-01
+### Director of Receivables / Information Systems, Springwood Associates
+##### 1989-09-01 - 1991-06-01
 
 
 
 
 ## Volunteer
 
-### Firefighter
-**New Holland Fire Department**
-1995-03-01
+### Firefighter, New Holland Fire Department
+##### 1995-03-01
 
-### Diver
-**MABAS 51 Dive Team**
-2013-03-01
+### Diver, MABAS 51 Dive Team
+##### 2013-03-01
 
 
 ## Skills
