@@ -1,2 +1,5 @@
 site_name: Todd Davis
 remote_branch: master
+nav:
+  - Home: index.md
+  - Resume: resume.md
