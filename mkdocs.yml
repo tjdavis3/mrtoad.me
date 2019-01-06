@@ -1,6 +1,9 @@
 site_name: mrtoad.me
 remote_branch: master
-theme: material
+theme: 
+  name: material
+  logo:
+    icon: desktop_mac
 site_url: https://mrtoad.me
 nav:
   - Home: index.md
