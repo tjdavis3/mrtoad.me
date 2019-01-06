@@ -2,6 +2,7 @@
 101 E. Lincoln St. <br/>
 New Holland, IL  62711 <br/>
 
+[linkedin](https://www.linkedin.com/in/davistodd)
 
 Hands-on manager with 25+ years of experience designing and building infrastructures and applications across heterogeneous environments and technologies.
 
