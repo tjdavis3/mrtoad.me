@@ -1,6 +1,6 @@
-**Todd Davis**
-101 E. Lincoln St.
-New Holland, IL  62711
+**Todd Davis** <br/>
+101 E. Lincoln St. <br/>
+New Holland, IL  62711 <br/>
 
 
 Hands-on manager with 25+ years of experience designing and building infrastructures and applications across heterogeneous environments and technologies.
