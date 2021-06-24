@@ -1,16 +1,18 @@
 site_name: mrtoad.me
-remote_branch: master
-theme: 
-  name: material
-  logo:
-    icon: desktop_mac
 site_url: https://mrtoad.me
+remote_branch: master
+theme: windmill
+plugins:
+  - awesome-pages
+  - search:
+      prebuild_index: True
 nav:
   - Home: index.md
   - Resume: resume.md
+  - ...
 
 extra:
   disqus:  
 
-markdown_extensions:
-  - meta
+#markdown_extensions:
+#  - meta
