@@ -21,6 +21,8 @@ cascade:
 
 {{< blocks/cover title="" image_anchor="top" height="auto"  >}}
 
+> ![Logo](/images/TDJ.png) 
+>
 > It's never the wrong time to call on Toad. Early or late he's always the same fellow. Always good-tempered, always glad to see you, always sorry when you go!
 
 <br/><br/>
