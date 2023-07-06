@@ -21,8 +21,8 @@ cascade:
 
 {{< blocks/cover title="" image_anchor="top" height="auto"  >}}
 
-> ![Logo](/images/TDJ.png) 
->
-> Coming Soon!!!
+![Logo](/images/TDJ.png) 
+
+# Coming Soon!!!
 
 {{< /blocks/cover >}}
