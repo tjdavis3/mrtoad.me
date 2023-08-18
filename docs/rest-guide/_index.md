@@ -1,9 +1,9 @@
 ---
 title: REST Guidelines
 no_list: true
-menu:
-  main:
-    weight: 10
+#menu:
+#  main:
+#    weight: 10
 draft: false
 
 cascade:
@@ -26,15 +26,15 @@ Topics not covered in this guide:
 - OpenAPI specifications for common data types can be found in the [openapi-\* GitHub repositories](https://github.com/belgif?q=openapi&type=&language=).
 
 <!-- -->
-
+{{% pageinfo color="primary" %}}
 > This guide is based on the REST guild published by [the Belgian Interoperability Framework](https://www.belgif.be/).
 >
 > - Original Sources: <https://github.com/belgif/rest-guide>
-
+{{% /pageinfo %}}
 <div class="note">
-
+{{% alert title="Note" color="primary" %}}
 For brevity most URIs in examples are shortened, but in practice URIs should be in absolute notation.
-
+{{% /alert %}}
 </div>
 
 **License**
