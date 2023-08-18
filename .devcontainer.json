@@ -1,1 +1,1 @@
-{"image":"klakegg/hugo:ext-ubuntu-ci","build":{}}
+{"image":"klakegg/hugo:ext-ubuntu-ci", "forwardPorts": [1313]}
