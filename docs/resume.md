@@ -29,21 +29,16 @@ Design and implement data centers at the infrastructure, network,  and server le
 ### Director of Systems Operations, ANPI / Onvoy
 ##### 2005-02-01 - 2017-02-01
 
-Responsible for managing the corporate computing infrastructure covering 3 data centers and 6 offices.  Coordinated a team of motivated professionals to support the company’s employees and the computing environment the use.
+Todd Davis is Director of Platform Development with RingSquared, an end-to-end voice and data business communications company.    His days at work consist of:
 
-  * After a corporate merger, led the integration of corporate systems into a single cohesive system with no outages.
+* Designing highly-available integration systems
+* Documenting new and existing software architectures
+* Coordinating offshore and domestic development teams
+* Implementing devops procedures and observability platforms
 
-  * Built out a corporate PBX using open source Asterisk platform with typical enterprise features and an automatically generated set of systems documentation based on the configuration.
+Before taking on the role of a development leader, Todd held a wide range of positions.  He's been a programmer, systems administrator, Site Reliability Engineer, and department manager.  As a programmer he's used a variety of languages such as Java, Javascript, Python, C, and believe it or not, COBOL.  These days when he writes code it is typically Go or shell scripts.
 
-  * Implemented open source systems to monitor the state of the network and systems to provide visibility and alerting.
-
-  * Created systems to handle inventory and archiving.
-
-  * Built automation around user management, systems deployment and configuration to take provisioning from days to under an hour.
-
-  * Implemented a fully-redundant split-horizon DNS system.
-
-  * Designed a centralized logging and authentication system.
+Aside from work,  Todd has four children and five grandchildren.  He lives in Texas with his wife of 30+ years.  Together they enjoy traveling and running.
 
 ### Sr. Internet Consultant, MSF&W
 ##### 2000-03-01 - 2005-02-01
