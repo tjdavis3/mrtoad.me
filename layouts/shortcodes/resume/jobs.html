@@ -1,0 +1,15 @@
+{{ $url := .Get "url" }}
+{{ $resume := getJSON $url }}
+
+{{ range $resume.work }}
+{{ $job := . }}
+### {{ $job.name }}, {{ $job.position }}
+**{{ time.Format "Jan 2006" $job.startDate }} - {{ if $job.endDate }}{{ time.Format "Jan 2006" $job.endDate }}{{ else }}present{{ end }}**
+
+{{ $job.summary }}
+  
+{{ range $job.highlights }}
+  - {{ . }}
+{{ end }}
+
+{{ end }}

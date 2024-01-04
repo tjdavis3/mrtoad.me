@@ -1,0 +1,4 @@
+{{ $url := .Get "url" }}
+{{ $resume := getJSON $url }}
+
+{{ $resume.basics.summary | markdownify }}

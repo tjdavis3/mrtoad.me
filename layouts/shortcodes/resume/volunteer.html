@@ -1,0 +1,7 @@
+{{ $url := .Get "url" }}
+{{ $resume := getJSON $url }}
+{{ range $resume.volunteer }}
+{{ $p := . }}
+### {{ $p.organization }}, {{ $p.position }}
+**{{ time.Format "Jan 2006" $p.startDate }} - {{ if $p.endDate }}{{ time.Format "Jan 2006" $p.endDate }}{{ else }}present{{ end }}**
+{{ end }}

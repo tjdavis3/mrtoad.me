@@ -1,0 +1,6 @@
+{{ $url := .Get "url" }}
+{{ $resume := getJSON $url }}
+
+{{- range $resume.basics.profiles }}
+{{ .network }}: [{{ .url }}]({{ .url }})<br/> 
+{{- end }}
