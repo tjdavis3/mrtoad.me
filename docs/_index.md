@@ -19,10 +19,12 @@ cascade:
     path: "/resume/"
 ---
 
-{{< blocks/cover title="" image_anchor="top" height="auto"  >}}
+{{< blocks/cover title="" image_anchor="top" height="full"  >}}
 
-![Logo](/images/TDJ.png) 
+<!-- ![Logo](/images/TDJ.png) -->
 
-# Coming Soon!!!
-
+<center>
+{{% blocks/feature icon="fa-file-lines" title="My Resume" url="/resume" %}} View my current resume
+{{% /blocks/feature %}}
+</center>
 {{< /blocks/cover >}}
