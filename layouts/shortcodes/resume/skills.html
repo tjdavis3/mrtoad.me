@@ -1,0 +1,7 @@
+{{ $url := .Get "url" }}
+{{ $resume := getJSON $url }}
+| Skill | Level | Years |
+| ----- | ----- | ----: |
+{{- range $resume.skills }}
+| {{ .name }} | {{ .level }} | {{ .yearsOfExperience }} |
+{{- end }}
