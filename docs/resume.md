@@ -1,3 +1,9 @@
+---
+type: blank
+---
+
+{{% blocks/section color="white" type="row" %}}
+{{% blocks/section color="white" %}}
 # Todd Davis
 
 ## Contact
@@ -30,3 +36,5 @@ I've volunteered with several organizations over the years.  Some of these are i
 ### MABAS 51 Dive Team, Diver
 **Mar 2013 - Jun 2019**
 
+{{% /blocks/section %}}
+{{% /blocks/section %}}
