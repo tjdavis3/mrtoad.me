@@ -3,31 +3,53 @@
 ## Contact
 101 E. Lincoln St. <br/>
 New Holland, IL 62711<br/>
-Email: todd@mrtoad.me<br/>Website: [https://mrtoad.me](https://mrtoad.me)
+Email: todd@toddjdavis.com<br/>Website: [https://ToddJDavis.com](https://toddjdavis.com)
 
-linkedin: [https://www.linkedin.com/in/davistodd](https://www.linkedin.com/in/davistodd)    
+LinkedIn: [https://www.linkedin.com/in/davistodd](https://www.linkedin.com/in/davistodd)    
 GitHub: [https://github.com/tjdavis3](https://github.com/tjdavis3)
 
 
 ## Summary
-Hands-on manager with 25+ years of experience designing and building infrastructures and applications across heterogeneous environments and technologies.
 
-Open source champion who has both used and contributed to multiple projects.
 
-Committed manager promoting growth and autonomy within the department.  Maintained a low turnover rate with some staff leaving only to return.
+Todd Davis has been in IT for over two decades.  His experience covers all facets of technology including data center layout and management, systems administration, configuration management, programming, and management of both administrators and developers.  As a programmer he's used a variety of languages such as Java, Javascript, Python, C, PHP, Golang, and even COBOL.  These days when he writes code it is typically Go or shell scripts.
 
-Design and implement data centers at the infrastructure, network,  and server level.
+Todd has excelled at designing systems, procedures, and documentation for a variety of systems, development environments, and software architectures.
+
+Aside from technology work, Todd has extensive experience in disaster preparedness and response as a volunteer fireman, a former paramedic, rescue diver, and a current CERT volunteer.  He and his wife have four children and five grandchildren.  He lives in Texas with his wife of 30+ years.  Together they enjoy traveling and running.
+
 
 ## Experience
 
+### Director of Platform Development, RingSquared (originally Magna5)
+**June 2019 to Present**
 
-### Director Of Software Development, Teliax, Inc. a global leader in voice services and solutions.
-##### 2017-08-01 - Present
+As the Director of Platform Development with RingSquared, Todd put together a distributed development team with a strong emphasis on devops procedures.
 
+* Designed a circuit inventory tracking system
+    - Automatically updated revenue amounts from billing system
+    - Automatically updated cost amounts from electronic vendor invoices
+    - Facilitated the identification of significant cost increases and missed disconnects, allowing the company to adjust and realize significant savings.
+* Designed a distributed, event-driven CDR retrieval and archival system
+    - cloud-based system allowing 7 years of retained CDR
+    - Allowed support personnel to query call details in near real-time.
+* Built various smaller automation systems and APIs
+* Documented new and existing software architectures
+* Coordinated offshore and domestic development teams
+* Implemented devops procedures and observability platforms
+
+### Director Of Software Development, Teliax, Inc.
+**August 2017 to June 2019**
+
+Led the development and systems operations teams in the re-engineering of infrastructure and systems.  Facilitated communications and development processes with offshore developers and managed the development roadmap.
+
+* Designed highly available systems and infrastructure.
+* Implemented a microservices architecture along with continuous integration (CI) and automated deployment
+* Implemented policies, procedures, and tooling to enable the development team to take on agile processes to increase productivity and decrease system issues.
 
 
 ### Director of Systems Operations, ANPI / Onvoy
-##### 2005-02-01 - 2017-02-01
+**Feb 2005 to Feb 2017**
 
 Responsible for managing the corporate computing infrastructure covering 3 data centers and 6 offices.  Coordinated a team of motivated professionals to support the company’s employees and the computing environment the use.
 
@@ -46,22 +68,22 @@ Responsible for managing the corporate computing infrastructure covering 3 data 
   * Designed a centralized logging and authentication system.
 
 ### Sr. Internet Consultant, MSF&W
-##### 2000-03-01 - 2005-02-01
+**Mar 2000 to Feb 2005**
 
 
 
 ### Comsys, Illinois Department of Corrections
-##### 1993-10-01 - 2000-03-01
+**Oct 1993 to Mar 2000**
 
 
 
 ### Programmer, American Healthtech
-##### 1991-06-01 - 1993-01-01
+June 1991 to Jan 1993
 
 
 
 ### Director of Receivables / Information Systems, Springwood Associates
-##### 1989-09-01 - 1991-06-01
+Sep 1989 to Jun 1991
 
 
 
