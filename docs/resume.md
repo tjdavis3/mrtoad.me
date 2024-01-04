@@ -24,9 +24,9 @@ I've volunteered with several organizations over the years.  Some of these are i
 
 {{% resume/volunteer url="https://gitconnected.com/v1/portfolio/tjdavis3" %}}
 
-### Firefighter, New Holland Fire Department
+### New Holland Fire Department, Firefighter
 **Mar 1995 - Jun 2019**
 
-### Diver, MABAS 51 Dive Team
+### MABAS 51 Dive Team, Diver
 **Mar 2013 - Jun 2019**
 
